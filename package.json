@@ -1,8 +1,12 @@
 {
-  "name": "node-example",
+  "name": "Example Bitstarter",
+  "author" : "Paolo Tagliaferri",
   "version": "0.0.1",
   "dependencies": {
-    "express": "2.5.x"
+    "express": "2.5.x",
+    "restler": "2.0.1",
+    "cheerio": "0.1.2", 
+    "commander": "1.2.0" 
   },
   "engines": {
     "node": "0.8.x",
