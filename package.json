@@ -1,5 +1,5 @@
 {
-  "name": "Example Bitstarter",
+  "name": "example-bitstarter",
   "author" : "Paolo Tagliaferri",
   "version": "0.0.1",
   "dependencies": {
